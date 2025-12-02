@@ -1,2 +1,3 @@
 # DEMO
-trying to learn about git and github 
+Trying to learn about git and github 
+<b> Author -- Dhruv Kumar <b>
